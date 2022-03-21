@@ -1,0 +1,87 @@
+body {
+  background-color: #ffff;
+  padding-top: 50px;
+}
+
+h1 {
+  padding-top: 150px;
+  font-size: 100px;
+  font-family: 'Playfair Display', serif;
+}
+
+h2 {
+  padding-top: 30px;
+  font-size: 40px;
+  font-family: 'Signika', sans-serif;
+}
+
+#top {
+  padding-bottom: 120px;
+}
+
+#pics {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  background-color: #444444;
+}
+
+.carousel-inner {
+  padding-left: 33%;
+}
+
+.carousel-item {
+  height: 35%;
+  width: 65%;
+}
+
+#founders {
+  text-align: center;
+  padding-bottom: 50px;
+  font-family: 'Signika', sans-serif;
+}
+
+#founder-section {
+  padding-top: 50px;
+  background-color: #EDEDED;
+  padding-bottom: 100px;
+}
+
+.founder {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.name
+{
+  padding-top: 4%;
+}
+
+.namend
+{
+  padding-bottom: 7%;
+}
+.card {
+  margin: 0 auto;
+  /* Added */
+  float: none;
+  /* Added */
+  margin-bottom: 10px;
+  /* Added */
+}
+
+#bottom {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #444444;
+}
+
+#footer {
+  text-align: center;
+  padding: 2%;
+  background-color: #EDEDED;
+}
+
+.foo-i {
+  margin: 5%;
+}
